@@ -1,0 +1,12 @@
+{
+	"registries": [
+		"https://bower.herokuapp.com/packages"
+	],
+	"githubs": {
+		"github.com": {
+			"client_id": "",
+			"client_secret": "",
+			"api_url": "https://api.github.com/repos/"
+		}
+	}
+}
